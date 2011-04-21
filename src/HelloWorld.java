@@ -2,6 +2,7 @@
 public class HelloWorld {
 
     /**
+     * Prints Hello World
      * @param args
      */
     public static void main(String[] args) {
